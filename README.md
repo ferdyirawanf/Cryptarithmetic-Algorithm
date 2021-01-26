@@ -1,11 +1,8 @@
 # Tucil1_IF2211_13519030
 Tugas Kecil 1 IF2211 Strategi Algoritma  Cryptarithmetic dengan Algoritma Brute Force
+
 Deskripsi Singkat Program:
-Program dibuat dengan bahasa python yang terdapat di folder src dengan nama Tucil1_13519030.py 
-dan 13 file input yang berada di folder test dengan nama input{x}.txt dengan x = 1,2,3,....,13.
-Program terdiri dari beberapa fungsi yang terdapat di bagian atas sedangkan main program berada
-di bagian bawah atau akhir. Karena menggunakan bahasa python saya belum bisa membuat file executable-nya
-sehingga folder bin kosong.
+Program dibuat dengan bahasa python yang terdapat di folder src dengan nama Tucil1_13519030.py dan 13 file input yang berada di folder test dengan nama input{x}.txt dengan x = 1,2,3,....,13. Program terdiri dari beberapa fungsi yang terdapat di bagian atas sedangkan main program berada di bagian bawah atau akhir. Karena menggunakan bahasa python saya belum bisa membuat file executable-nya sehingga folder bin kosong.
 
 
 Menjalankan Program:
