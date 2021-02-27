@@ -1,4 +1,4 @@
-# Tucil1_IF2211_13519030
+# Cryptarithmetic Algorithm
 Tugas Kecil 1 IF2211 Strategi Algoritma  Cryptarithmetic dengan Algoritma Brute Force
 
 Deskripsi Singkat Program:
